@@ -3,8 +3,17 @@
     <channel>
       <title>Mattflix Suggestion Box</title>
       <link>https://docs.google.com/forms/d/e/1FAIpQLSfbKKiPahqn7B-E7bMP3gMk2BLu4gsvqftRcCzrk9eSzL-WEQ/viewform</link>
-      <description>Last Update: 2/9/2026, 11:26:16 PM</description>
-      <lastBuildDate>Tue, 10 Feb 2026 04:26:16 GMT</lastBuildDate>
+      <description>Last Update: 2/9/2026, 11:26:53 PM</description>
+      <lastBuildDate>Tue, 10 Feb 2026 04:26:53 GMT</lastBuildDate>
+      <item>
+        <title>I am praying this one works</title>
+        <description><![CDATA[<strong>TV Show or Movie?:</strong> TV Show<br>
+<strong>Title::</strong> I am praying this one works<br>
+<strong>(Optional) Any other identifying info?:</strong> <br>
+<strong>Submitter Name (so I can message you if I can't find the show):</strong> Rearsadre]]></description>
+        <pubDate>Tue, 10 Feb 2026 04:26:52 GMT</pubDate>
+        <guid isPermaLink="false">2_ABaOnue88CgNs7wip3Mw-e0sc9n2O0sm4IS86gSxnn0ToNM1kJ91DQwMQgOT2AFvyvWWav4</guid>
+      </item>
       <item>
         <title>test</title>
         <description><![CDATA[<strong>TV Show or Movie?:</strong> TV Show<br>
@@ -85,15 +94,6 @@
 <strong>Submitter Name (so I can message you if I can't find the show):</strong> test]]></description>
         <pubDate>Tue, 10 Feb 2026 03:32:33 GMT</pubDate>
         <guid isPermaLink="false">2_ABaOnucfX1kqTAPoDASNmEz9oHqcpSzJNjQSWjI8Nsme1jFfqdkY3qFglFfSYWlOtjaAl0U</guid>
-      </item>
-      <item>
-        <title>test</title>
-        <description><![CDATA[<strong>TV Show or Movie?:</strong> Movie<br>
-<strong>Title::</strong> test<br>
-<strong>(Optional) Any other identifying info?:</strong> <br>
-<strong>Submitter Name (so I can message you if I can't find the show):</strong> test]]></description>
-        <pubDate>Tue, 10 Feb 2026 03:02:53 GMT</pubDate>
-        <guid isPermaLink="false">2_ABaOnudfrrUT6ZHkSNe3yN2xWcVGZifnAXCBUT92kXenVvX2xBzgvMHPIfpjitkhBO0ofgE</guid>
       </item>
     </channel>
 </rss>
