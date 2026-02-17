@@ -3,8 +3,19 @@
     <channel>
       <title>Mattflix Suggestion Box</title>
       <link>https://docs.google.com/forms/d/e/1FAIpQLSfbKKiPahqn7B-E7bMP3gMk2BLu4gsvqftRcCzrk9eSzL-WEQ/viewform</link>
-      <description>Last Update: 2/16/2026, 9:46:39 AM</description>
-      <lastBuildDate>Mon, 16 Feb 2026 14:46:39 GMT</lastBuildDate>
+      <description>Last Update: 2/16/2026, 10:34:47 PM</description>
+      <lastBuildDate>Tue, 17 Feb 2026 03:34:47 GMT</lastBuildDate>
+      <item>
+        <title>test</title>
+        <description><![CDATA[<strong>TV Show or Movie?:</strong> TV Show<br>
+<strong>Title:</strong> test<br>
+<strong>(Optional) Any other identifying info?:</strong> <br>
+<strong>Submitter Name (so I can message you if I can't find the show):</strong> test<br>
+<strong>Email:</strong> matthewdragonas@gmail.com<br>
+<br><a href="mailto:matthewdragonas@gmail.com?subject=Regarding%3A%20test&body=Hi%2C%0A%0AI'm%20reaching%20out%20regarding%20your%20submission%3A%20test.%0A%0A" style="background-color: #007bff; color: white; padding: 5px 10px; text-decoration: none; border-radius: 3px;">📧 Email Submitter</a>]]></description>
+        <pubDate>Tue, 17 Feb 2026 03:34:45 GMT</pubDate>
+        <guid isPermaLink="false">2_ABaOnufzJLJvzpkxYEBHMVOFExPPuAySSjTfSKLApUFQ_847zvXDfc4G8BvKAaHcOMQvUUo</guid>
+      </item>
       <item>
         <title>The Man Who Killed Don Quixote</title>
         <description><![CDATA[<strong>TV Show or Movie?:</strong> Movie<br>
@@ -85,15 +96,6 @@
 <strong>Submitter Name (so I can message you if I can't find the show):</strong> Rearsadre]]></description>
         <pubDate>Tue, 10 Feb 2026 04:26:52 GMT</pubDate>
         <guid isPermaLink="false">2_ABaOnue88CgNs7wip3Mw-e0sc9n2O0sm4IS86gSxnn0ToNM1kJ91DQwMQgOT2AFvyvWWav4</guid>
-      </item>
-      <item>
-        <title>test</title>
-        <description><![CDATA[<strong>TV Show or Movie?:</strong> TV Show<br>
-<strong>Title:</strong> test<br>
-<strong>(Optional) Any other identifying info?:</strong> <br>
-<strong>Submitter Name (so I can message you if I can't find the show):</strong> test]]></description>
-        <pubDate>Tue, 10 Feb 2026 04:21:39 GMT</pubDate>
-        <guid isPermaLink="false">2_ABaOnucSGeO3ZzrrC4l5L1MsX7V7lA27LkeesnYTLoJwNU9imrDpPVbPD9THafAK0PyKWwc</guid>
       </item>
     </channel>
 </rss>
