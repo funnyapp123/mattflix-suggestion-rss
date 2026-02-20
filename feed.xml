@@ -3,8 +3,20 @@
     <channel>
       <title>Mattflix Suggestion Box</title>
       <link>https://docs.google.com/forms/d/e/1FAIpQLSfbKKiPahqn7B-E7bMP3gMk2BLu4gsvqftRcCzrk9eSzL-WEQ/viewform</link>
-      <description>Last Update: 2/20/2026, 11:31:13 AM</description>
-      <lastBuildDate>Fri, 20 Feb 2026 16:31:13 GMT</lastBuildDate>
+      <description>Last Update: 2/20/2026, 1:33:52 PM</description>
+      <lastBuildDate>Fri, 20 Feb 2026 18:33:52 GMT</lastBuildDate>
+      <item>
+        <title>Comedian</title>
+        <description><![CDATA[<strong>TV Show or Movie?:</strong> Movie<br>
+<strong>Title:</strong> Comedian<br>
+<strong>(Optional) Any other identifying info?:</strong> Jerry Seinfeld Documentary<br>
+<strong>Submitter Name (so I can message you if I can't find the request):</strong> Jacob<br>
+<strong>Email:</strong> <br>
+<br><strong>Admin Actions:</strong><br>
+<a href="mailto:?subject='Comedian'%20has%20been%20added%20to%20Mattflix&body='Comedian'%20has%20been%20added%20to%20Mattflix.%20Watch%20now%20at%20https%3A%2F%2Fmattflix.cfd!%20~Matt">[ FOUND ]</a> &nbsp;|&nbsp; <a href="mailto:?subject='Comedian'%20has%20not%20been%20added%20yet&body=Unfortunately%2C%20'Comedian'%20isn't%20able%20to%20be%20found%20yet.%20Be%20on%20the%20lookout%20for%20another%20email%20for%20when%20I%20find%20it!%20~Matt">[ PENDING ]</a> &nbsp;|&nbsp; <a href="mailto:?subject='Comedian'%20could%20not%20be%20added&body=Unfortunately%2C%20I%20couldn't%20find%20'Comedian'%20anywhere.%20Super%20sorry%2C%20~Matt">[ FAILED REQUEST ]</a>]]></description>
+        <pubDate>Fri, 20 Feb 2026 18:33:47 GMT</pubDate>
+        <guid isPermaLink="false">2_ABaOnueHSs5zlRo50idLFGb4ZY_tN55FI6bYZBKdz62BQPGFFe6okLCck05U5rfL_Dedynk</guid>
+      </item>
       <item>
         <title>Nirvana the Band the Show the Movie</title>
         <description><![CDATA[<strong>TV Show or Movie?:</strong> Movie<br>
@@ -110,17 +122,6 @@
 <a href="mailto:?subject='Another%20test'%20has%20been%20added%20to%20Mattflix&body='Another%20test'%20has%20been%20added%20to%20Mattflix.%20Watch%20now%20at%20https%3A%2F%2Fmattflix.cfd!%20~Matt">[ FOUND ]</a> &nbsp;|&nbsp; <a href="mailto:?subject='Another%20test'%20has%20not%20been%20added%20yet&body=Unfortunately%2C%20'Another%20test'%20isn't%20able%20to%20be%20found%20yet.%20Be%20on%20the%20lookout%20for%20another%20email%20for%20when%20I%20find%20it!%20~Matt">[ PENDING ]</a> &nbsp;|&nbsp; <a href="mailto:?subject='Another%20test'%20could%20not%20be%20added&body=Unfortunately%2C%20I%20couldn't%20find%20'Another%20test'%20anywhere.%20Super%20sorry%2C%20~Matt">[ FAILED REQUEST ]</a>]]></description>
         <pubDate>Tue, 17 Feb 2026 03:42:08 GMT</pubDate>
         <guid isPermaLink="false">2_ABaOnuelkI0YRtqZerOOUm2ESvx0L3pt6Rw-qANigMHPu_qPE0hASb-5m-P9PPWIgDdRClU</guid>
-      </item>
-      <item>
-        <title>test</title>
-        <description><![CDATA[<strong>TV Show or Movie?:</strong> TV Show<br>
-<strong>Title:</strong> test<br>
-<strong>(Optional) Any other identifying info?:</strong> <br>
-<strong>Submitter Name (so I can message you if I can't find the request):</strong> test<br>
-<br><strong>Admin Actions:</strong><br>
-<a href="mailto:?subject='test'%20has%20been%20added%20to%20Mattflix&body='test'%20has%20been%20added%20to%20Mattflix.%20Watch%20now%20at%20https%3A%2F%2Fmattflix.cfd!%20~Matt">[ FOUND ]</a> &nbsp;|&nbsp; <a href="mailto:?subject='test'%20has%20not%20been%20added%20yet&body=Unfortunately%2C%20'test'%20isn't%20able%20to%20be%20found%20yet.%20Be%20on%20the%20lookout%20for%20another%20email%20for%20when%20I%20find%20it!%20~Matt">[ PENDING ]</a> &nbsp;|&nbsp; <a href="mailto:?subject='test'%20could%20not%20be%20added&body=Unfortunately%2C%20I%20couldn't%20find%20'test'%20anywhere.%20Super%20sorry%2C%20~Matt">[ FAILED REQUEST ]</a>]]></description>
-        <pubDate>Tue, 17 Feb 2026 03:34:45 GMT</pubDate>
-        <guid isPermaLink="false">2_ABaOnufzJLJvzpkxYEBHMVOFExPPuAySSjTfSKLApUFQ_847zvXDfc4G8BvKAaHcOMQvUUo</guid>
       </item>
     </channel>
 </rss>
